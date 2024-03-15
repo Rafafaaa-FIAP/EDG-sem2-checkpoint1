@@ -12,6 +12,8 @@
   <a href="#floppy_disk-Solução">Solução</a>
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#gear-Como-Utilizar">Como Utilizar</a>
+  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#technologist-Integrantes">Integrantes</a>
 </p>
 
 <hr/>
@@ -31,6 +33,13 @@ Este projeto utilizou as seguintes tecnologias e ferramentas:
 
 ## :floppy_disk: Solução
 ### Circuito
+<h4>Componentes</h4>
+<ul>
+  <li><b>Arduino Uno</b>: uma placa microcontroladora de código aberto.</li>
+  <li><b>Sensor Ultrassônico</b>: dispositivo que emite ondas sonoras de alta frequência e mede o tempo que levam para essas ondas serem refletidas para um objeto.</li>
+  <li><b>LDR</b>: um resistor cuja resistência varia conforme a intensidade da luz que incide sobre ele.</li>
+  <li><b>DHT11</b>: um sensor desenvolvido para medir temperaturas da faixa de 0 a 50°C e umidade de 20 a 90%.</li>
+</ul>
 <table>
   <tr>
     <td>
@@ -65,3 +74,10 @@ Este projeto utilizou as seguintes tecnologias e ferramentas:
 4. Conectar o Arduino no computador e fazer upload do código para o Arduino;
 5. Iniciar o [Node-RED](https://nodered.org/) no computador;
 6. Importar o [fluxo](https://github.com/studies2023-FIAP-ES-553521-ano1-05-EDG/sem2-checkpoint1/blob/main/flows.json) no [Node-RED](https://nodered.org/) no computador e fazer o deploy.
+
+## :technologist: Integrantes
+* RM 552980 - Danilo Vieira
+* RM 553377 - Enzo de Oliveira Rodrigues
+* RM 552939 - Jonata Rafael
+* RM 553403 - Matheus Felippe
+* RM 553521 - Rafael Cristofali
