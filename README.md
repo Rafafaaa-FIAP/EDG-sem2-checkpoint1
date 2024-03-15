@@ -17,7 +17,7 @@
 <hr/>
 
 ## :pushpin: Introdução
-Neste Checkpoint teve como objetivo avaliar a compreensão acerca da interação com o [Node-RED](https://nodered.org/).
+Este checkpoint teve como objetivo avaliar a compreensão acerca da interação com o [Node-RED](https://nodered.org/).
 
 ## :bulb: Desafio
 Construção de uma solução de IoT que abrange todas os conceitos de comunicação entre sensores e o [Node-RED](https://nodered.org/).
@@ -34,31 +34,34 @@ Este projeto utilizou as seguintes tecnologias e ferramentas:
 <table>
   <tr>
     <td>
-      <img src="https://github.com/studies2023-FIAP-ES-553521-ano1-05-EDG/sem2-checkpoint1/blob/main/images/circuit-1.jpg" alt="circuit 1" width="300" />
+      <img src="https://github.com/studies2023-FIAP-ES-553521-ano1-05-EDG/sem2-checkpoint1/blob/main/images/circuit-1.png" alt="circuit 1" width="300" />
     </td>
     <td>
-      <img src="https://github.com/studies2023-FIAP-ES-553521-ano1-05-EDG/sem2-checkpoint1/blob/main/images/circuit-2.jpg" alt="circuit 2" width="300" />
+      <img src="https://github.com/studies2023-FIAP-ES-553521-ano1-05-EDG/sem2-checkpoint1/blob/main/images/circuit-2.png" alt="circuit 2" width="300" />
     </td>
     <td>
-      <img src="https://github.com/studies2023-FIAP-ES-553521-ano1-05-EDG/sem2-checkpoint1/blob/main/images/circuit-3.jpg" alt="circuit 3" width="300" />
+      <img src="https://github.com/studies2023-FIAP-ES-553521-ano1-05-EDG/sem2-checkpoint1/blob/main/images/circuit-3.png" alt="circuit 3" width="300" />
     </td>
     <td>
-      <img src="https://github.com/studies2023-FIAP-ES-553521-ano1-05-EDG/sem2-checkpoint1/blob/main/images/circuit-4.jpg" alt="circuit 4" width="300" />
+      <img src="https://github.com/studies2023-FIAP-ES-553521-ano1-05-EDG/sem2-checkpoint1/blob/main/images/circuit-4.png" alt="circuit 4" width="300" />
     </td>
     <td>
-      <img src="https://github.com/studies2023-FIAP-ES-553521-ano1-05-EDG/sem2-checkpoint1/blob/main/images/circuit-5.jpg" alt="circuit 5" width="300" />
+      <img src="https://github.com/studies2023-FIAP-ES-553521-ano1-05-EDG/sem2-checkpoint1/blob/main/images/circuit-5.png" alt="circuit 5" width="300" />
     </td>
   </tr>
 </table>
 
 ### Fluxo
+<img src="https://github.com/studies2023-FIAP-ES-553521-ano1-05-EDG/sem2-checkpoint1/blob/main/images/flow.png" alt="circuit 5" width="500" />
+<h6>Acesse o JSON para importação no Node-RED clicando <a href="https://github.com/studies2023-FIAP-ES-553521-ano1-05-EDG/sem2-checkpoint1/blob/main/flows.json">aqui</a>.</h6>
 
 ### Dashboard
+<img src="https://github.com/studies2023-FIAP-ES-553521-ano1-05-EDG/sem2-checkpoint1/blob/main/images/dashboard.png" alt="circuit 5" width="500" />
 
 ## :gear: Como Utilizar
 1. Instalar o [Node-RED](https://nodered.org/);
-2. Baixar o código da solução;
+2. Baixar o [código](https://github.com/studies2023-FIAP-ES-553521-ano1-05-EDG/sem2-checkpoint1/blob/main/code.ino) da solução e instalar as bibliotecas ArduinoJson e DHT sensor library;
 3. Montar o circuito;
 4. Conectar o Arduino no computador e fazer upload do código para o Arduino;
 5. Iniciar o [Node-RED](https://nodered.org/) no computador;
-6. Importar o fluxo no [Node-RED](https://nodered.org/) no computador e dar o deploy.
+6. Importar o [fluxo](https://github.com/studies2023-FIAP-ES-553521-ano1-05-EDG/sem2-checkpoint1/blob/main/flows.json) no [Node-RED](https://nodered.org/) no computador e fazer o deploy.
