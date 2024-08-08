@@ -1,4 +1,4 @@
-<h1 align="center">Ano 1 - Semestre 2 - Checkpoint 1 - 1ESPR</h1>
+<h1 align="center">Semestre 2 - Checkpoint 1</h1>
 
 <hr/>
 
@@ -43,37 +43,37 @@ Este projeto utilizou as seguintes tecnologias e ferramentas:
 <table>
   <tr>
     <td>
-      <img src="https://github.com/studies2023-FIAP-ES-553521-ano1-05-EDG/sem2-checkpoint1/blob/main/images/circuit-1.png" alt="circuit 1" width="300" />
+      <img src="https://github.com/Rafafaaa-FIAP/EDG-sem2-checkpoint1/blob/main/images/circuit-1.png" alt="circuit 1" width="300" />
     </td>
     <td>
-      <img src="https://github.com/studies2023-FIAP-ES-553521-ano1-05-EDG/sem2-checkpoint1/blob/main/images/circuit-2.png" alt="circuit 2" width="300" />
+      <img src="https://github.com/Rafafaaa-FIAP/EDG-sem2-checkpoint1/blob/main/images/circuit-2.png" alt="circuit 2" width="300" />
     </td>
     <td>
-      <img src="https://github.com/studies2023-FIAP-ES-553521-ano1-05-EDG/sem2-checkpoint1/blob/main/images/circuit-3.png" alt="circuit 3" width="300" />
+      <img src="https://github.com/Rafafaaa-FIAP/EDG-sem2-checkpoint1/blob/main/images/circuit-3.png" alt="circuit 3" width="300" />
     </td>
     <td>
-      <img src="https://github.com/studies2023-FIAP-ES-553521-ano1-05-EDG/sem2-checkpoint1/blob/main/images/circuit-4.png" alt="circuit 4" width="300" />
+      <img src="https://github.com/Rafafaaa-FIAP/EDG-sem2-checkpoint1/blob/main/images/circuit-4.png" alt="circuit 4" width="300" />
     </td>
     <td>
-      <img src="https://github.com/studies2023-FIAP-ES-553521-ano1-05-EDG/sem2-checkpoint1/blob/main/images/circuit-5.png" alt="circuit 5" width="300" />
+      <img src="https://github.com/Rafafaaa-FIAP/EDG-sem2-checkpoint1/blob/main/images/circuit-5.png" alt="circuit 5" width="300" />
     </td>
   </tr>
 </table>
 
 ### Fluxo
-<img src="https://github.com/studies2023-FIAP-ES-553521-ano1-05-EDG/sem2-checkpoint1/blob/main/images/flow.png" alt="circuit 5" width="500" />
-<h6>Acesse o JSON para importação no Node-RED clicando <a href="https://github.com/studies2023-FIAP-ES-553521-ano1-05-EDG/sem2-checkpoint1/blob/main/flows.json">aqui</a>.</h6>
+<img src="https://github.com/Rafafaaa-FIAP/EDG-sem2-checkpoint1/blob/main/images/flow.png" alt="circuit 5" width="500" />
+<h6>Acesse o JSON para importação no Node-RED clicando <a href="https://github.com/Rafafaaa-FIAP/EDG-sem2-checkpoint1/blob/main/flows.json">aqui</a>.</h6>
 
 ### Dashboard
-<img src="https://github.com/studies2023-FIAP-ES-553521-ano1-05-EDG/sem2-checkpoint1/blob/main/images/dashboard.png" alt="circuit 5" width="500" />
+<img src="https://github.com/Rafafaaa-FIAP/EDG-sem2-checkpoint1/blob/main/images/dashboard.png" alt="circuit 5" width="500" />
 
 ## :gear: Como Utilizar
 1. Instalar o [Node-RED](https://nodered.org/);
-2. Baixar o [código](https://github.com/studies2023-FIAP-ES-553521-ano1-05-EDG/sem2-checkpoint1/blob/main/code.ino) da solução e instalar as bibliotecas ArduinoJson e DHT sensor library;
+2. Baixar o [código](https://github.com/Rafafaaa-FIAP/EDG-sem2-checkpoint1/blob/main/code.ino) da solução e instalar as bibliotecas ArduinoJson e DHT sensor library;
 3. Montar o circuito;
 4. Conectar o Arduino no computador e fazer upload do código para o Arduino;
 5. Iniciar o [Node-RED](https://nodered.org/) no computador;
-6. Importar o [fluxo](https://github.com/studies2023-FIAP-ES-553521-ano1-05-EDG/sem2-checkpoint1/blob/main/flows.json) no [Node-RED](https://nodered.org/) no computador e fazer o deploy.
+6. Importar o [fluxo](https://github.com/Rafafaaa-FIAP/EDG-sem2-checkpoint1/blob/main/flows.json) no [Node-RED](https://nodered.org/) no computador e fazer o deploy.
 
 ## :technologist: Integrantes
 * RM 552980 - Danilo Vieira
