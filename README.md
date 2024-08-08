@@ -19,12 +19,12 @@
 <hr/>
 
 ## :pushpin: Introdução
-Este checkpoint teve como objetivo avaliar a compreensão acerca da interação com o [Node-RED](https://nodered.org/).
+Este checkpoint teve como objetivo avaliar a compreensão acerca da interação com o Node-RED.
 
 ## :bulb: Desafio
-Construção de uma solução de IoT que abrange todas os conceitos de comunicação entre sensores e o [Node-RED](https://nodered.org/).
+Construção de uma solução de IoT que abrange todas os conceitos de comunicação entre sensores e o Node-RED.
 A solução deve conter a leitura de três sensores a cada 3000ms, disponibilizando as leituras na porta serial, no formato JSON {"":, "":}, os nomes dos sensores, e os valores lidos, respectivamente no DEBUG.
-Além disso, deve haver Dashboards no [Node-RED](https://nodered.org/), cuja interface gráfica demonstre o funcionamento de todas os sensores.
+Além disso, deve haver Dashboards no Node-RED, cuja interface gráfica demonstre o funcionamento de todas os sensores.
 
 ## :hammer_and_wrench: Tecnologias e Ferramentas
 Este projeto utilizou as seguintes tecnologias e ferramentas:
@@ -68,12 +68,12 @@ Este projeto utilizou as seguintes tecnologias e ferramentas:
 <img src="https://github.com/Rafafaaa-FIAP/EDG-sem2-checkpoint1/blob/main/images/dashboard.png" alt="circuit 5" width="500" />
 
 ## :gear: Como Utilizar
-1. Instalar o [Node-RED](https://nodered.org/);
+1. Instalar o Node-RED;
 2. Baixar o [código](https://github.com/Rafafaaa-FIAP/EDG-sem2-checkpoint1/blob/main/code.ino) da solução e instalar as bibliotecas ArduinoJson e DHT sensor library;
 3. Montar o circuito;
 4. Conectar o Arduino no computador e fazer upload do código para o Arduino;
-5. Iniciar o [Node-RED](https://nodered.org/) no computador;
-6. Importar o [fluxo](https://github.com/Rafafaaa-FIAP/EDG-sem2-checkpoint1/blob/main/flows.json) no [Node-RED](https://nodered.org/) no computador e fazer o deploy.
+5. Iniciar o Node-RED no computador;
+6. Importar o [fluxo](https://github.com/Rafafaaa-FIAP/EDG-sem2-checkpoint1/blob/main/flows.json) no Node-RED no computador e fazer o deploy.
 
 ## :technologist: Integrantes
 * RM 552980 - Danilo Vieira
